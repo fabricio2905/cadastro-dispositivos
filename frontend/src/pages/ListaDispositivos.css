@@ -3,7 +3,7 @@
   }
   
 .container {
-    max-width: 1200px; /* ou algo como 1000px */
+    max-width: 1200px; 
     margin: 0 auto;
     padding: 16px;
     text-align: center;
